@@ -134,5 +134,6 @@ class Movie {
       this.imdbID,
       this.type,
       this.response,
+    
       this.images);
 }
